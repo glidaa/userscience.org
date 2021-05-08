@@ -20,3 +20,4 @@ fields:
   default: now
 pages:
 - _posts/first-post-title-only.md
+- _posts/test-post.md
