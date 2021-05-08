@@ -1,7 +1,7 @@
 ---
 date: ! '''2021-05-08T07:58:06'''
 title: User Science
-coverImage: ''
+coverImage: "/assets/userscienspace.png"
 excerpt: 'Why would we approach the building of an enterprise with science...? '
 
 ---
