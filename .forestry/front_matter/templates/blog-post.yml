@@ -31,3 +31,4 @@ fields:
   description: short content
 pages:
 - _posts/test-post.md
+- _posts/user-science-is-a-philosophy.md
