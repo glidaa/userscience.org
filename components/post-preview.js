@@ -12,7 +12,7 @@ export default function PostPreview({
 }) {
   return (
     <div>
-      <div className="mb-5">
+      <div className="mb-5 h-64 md:w-96 sm:w-32 flex items-center justify-center" >
         <CoverImage
           slug={slug}
           title={title}
