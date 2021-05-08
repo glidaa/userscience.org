@@ -9,7 +9,7 @@ export default function CoverImage({ title, src, slug, height, width }) {
       src={src}
       alt={`Cover Image for ${title}`}
       className={cn('shadow-sm', {
-        'hover:shadow-md transition-shadow duration-200': slug,
+        'hover:shadow-md object-contain  max-h-64 transition-shadow duration-200': slug,
       })}
       layout="intrinsic"
       width={width}
