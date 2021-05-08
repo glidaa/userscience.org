@@ -5,7 +5,7 @@ coverImage: "/assets/rainbow.jpg"
 excerpt: User Science is a philosophy...
 
 ---
-**“, applied as a framework, with accepted laws, and an empirical method of acquiring knowledge of users scientifically.”**
+“User Science is a philosophy, applied as a framework, with accepted laws, and an empirical method of acquiring knowledge of users scientifically.”
 
 > **Michael Castleman**
 
