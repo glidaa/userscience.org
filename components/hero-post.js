@@ -12,8 +12,8 @@ export default function HeroPost({
 }) {
   return (
     <section className="flex flex-col items-center">
-      <div className="mb-8 md:mb-16">
-      <div >
+      <div className="mb-8 md:mb-16 flex flex-col items-center">
+      <div className="max-w-lg 2xl:max-w-screen-sm  ">
         <CoverImage
           title={title}
           src={coverImage}
@@ -22,6 +22,7 @@ export default function HeroPost({
           width={800}
         />
       </div>
+      <div className="self-start">
       <h3 className="text-4xl mb-3 leading-snug font-bold">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
           <a className="hover:underline">{title}</a>
@@ -31,6 +32,7 @@ export default function HeroPost({
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4 text-gray-600">{excerpt}</p>
+      </div>
       </div>
     </section>
   )

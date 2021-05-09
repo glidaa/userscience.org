@@ -11,7 +11,7 @@ export default function PostPreview({
   slug,
 }) {
   return (
-    <div>
+    <section className="flex flex-col md:w-96 sm:w-32 ">
       <div className="mb-5 max-h-64 md:h-64 md:w-96 sm:w-32 flex items-center justify-center" >
         <CoverImage
           slug={slug}
@@ -21,6 +21,9 @@ export default function PostPreview({
           width={556}
         />
       </div>
+
+    <div className="flex flex-row h-full items-end justify-between">
+      <div className="self-start">
       <h3 className="text-4xl mb-3 leading-snug font-bold">
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
           <a className="hover:underline">{title}</a>
@@ -30,6 +33,9 @@ export default function PostPreview({
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4 text-gray-600">{excerpt}</p>
+      </div>
+    <div className="bg-stars" />
     </div>
+    </section>
   )
 }
