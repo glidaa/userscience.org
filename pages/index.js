@@ -13,10 +13,10 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Michael Blog</title>
+          <title>User science Blog</title>
         </Head>
-        <Container>
           <Intro />
+        <Container>
           {heroPost && (
             <HeroPost
               title={heroPost.title}

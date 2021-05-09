@@ -9,9 +9,6 @@ export default function Alert({ preview }) {
         'bg-accent-1 border-accent-2': !preview,
       })}
     >
-      <Container>
-       
-      </Container>
     </div>
   )
 }

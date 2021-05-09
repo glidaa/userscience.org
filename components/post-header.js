@@ -6,12 +6,12 @@ import PostTitle from '../components/post-title'
 export default function PostHeader({ title, coverImage, date }) {
   return (
     <>
+    <div className="mx-8 md:mx-16 ">
       <PostTitle>{title}</PostTitle>
-      <div className="mb-8 md:mb-16 sm:mx-0">
-        <CoverImage title={title} src={coverImage} height={620} width={1240} />
-      </div>
-      <div className="max-w-2xl mx-auto">
-        <div className="mb-6 text-lg">
+      <div className="mb-8 md:mb-16 flex flex-col items-center justify-center">
+        <CoverImage title={title} src={coverImage} height={400} width={800} />
+        </div>
+      <div className="w-full mt-4 text-sm text-gray-400 mb-4">
           <DateFormatter dateString={date} />
         </div>
       </div>
