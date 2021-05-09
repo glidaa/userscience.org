@@ -11,8 +11,8 @@ export default function PostPreview({
   slug,
 }) {
   return (
-    <section className="flex flex-col md:w-96 sm:w-32 ">
-      <div className="mb-5 max-h-64 md:h-64 md:w-96 sm:w-32 flex items-center justify-center" >
+    <section className="flex flex-col w-full md:w-96  ">
+      <div className="mb-5 max-h-64 md:h-64 md:w-96  flex items-center justify-center" >
         <CoverImage
           slug={slug}
           title={title}
