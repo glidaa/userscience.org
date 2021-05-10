@@ -9,6 +9,8 @@ sections:
   label: _links
   create: all
   match: "**/*"
+  templates:
+  - link
 - type: directory
   path: _posts
   label: _posts
