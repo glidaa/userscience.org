@@ -1,5 +1,5 @@
 ---
-title: Privacy
-
+title: Terms
 ---
-Privacy statement
+
+Terms
