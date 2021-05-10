@@ -5,7 +5,7 @@ export default function Intro() {
         User <span className="text-blue-600">science</span>
       </h1>
       <h4 className="text-center md:text-right text-lg mt-5 md:pl-8">
-      A blog about user science
+      User Science is a philosophy, applied as a framework, with accepted laws, and an empirical method of acquiring knowledge of users scientifically.
              </h4>
              </div>
     </section>
