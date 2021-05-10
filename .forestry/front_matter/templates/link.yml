@@ -9,3 +9,4 @@ fields:
   label: Title
 pages:
 - _links/privacy.md
+- _links/something.md
