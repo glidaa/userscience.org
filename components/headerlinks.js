@@ -68,7 +68,7 @@ export default function HeaderLinks() {
                 }
               )}
             >
-              About
+              Start Here
             </a>
           </Link>
           <Link as={`/about`} href="/about">
