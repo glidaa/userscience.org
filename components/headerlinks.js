@@ -59,6 +59,18 @@ export default function HeaderLinks() {
         )}
       >
         <div className="lg:flex lg:items-stretch lg:justify-end ml-auto">
+        <Link as={`/start`} href="/start">
+            <a
+              className={cn(
+                "border-l-2 lg:border-l-0 lg:border-t-2 border-transparent flex-no-grow flex-no-shrink relative py-2 px-4 leading-normal text-blue-700 no-underline flex items-center  hover:text-blue-900 hover:bg-blue-200",
+                {
+                  "border-blue-700": router?.asPath === "/start",
+                }
+              )}
+            >
+              About
+            </a>
+          </Link>
           <Link as={`/about`} href="/about">
             <a
               className={cn(
