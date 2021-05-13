@@ -68,7 +68,7 @@ export default function HeaderLinks() {
                 }
               )}
             >
-              About Me
+              About
             </a>
           </Link>
 
@@ -81,7 +81,7 @@ export default function HeaderLinks() {
                 }
               )}
             >
-              Contact Me
+              Contact
             </a>
           </Link>
         </div>

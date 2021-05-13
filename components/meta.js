@@ -27,7 +27,7 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`A blog about user science`}
+        content={`Home of the philosophy of userscience`}
       />
     </Head>
   )
