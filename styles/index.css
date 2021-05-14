@@ -34,3 +34,23 @@ clip-path: polygon(0% 0%, 0% 100%, 0 100%, 0 0, 100% 0, 100% 100%, 0 100%, 100% 
         clip-path: polygon(0% 0%, 0% 100%, 0 100%, 0 0, 100% 0, 100% 100%, 0 100%, 100% 0%);
         }
 }
+a:link {
+    color: rgb(34, 19, 235);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(192, 240, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(0, 38, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(109, 131, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
