@@ -71,6 +71,42 @@ export default function HeaderLinks() {
               Start Here
             </a>
           </Link>
+          <Link as={`/Manifesto`} href="/Manifesto">
+            <a
+              className={cn(
+                "border-l-2 lg:border-l-0 lg:border-t-2 border-transparent flex-no-grow flex-no-shrink relative py-2 px-4 leading-normal text-blue-700 no-underline flex items-center  hover:text-blue-900 hover:bg-blue-200",
+                {
+                  "border-blue-700": router?.asPath === "/Manifesto",
+                }
+              )}
+            >
+              Manifesto
+            </a>
+          </Link>
+          <Link as={`/space`} href="/space">
+            <a
+              className={cn(
+                "border-l-2 lg:border-l-0 lg:border-t-2 border-transparent flex-no-grow flex-no-shrink relative py-2 px-4 leading-normal text-blue-700 no-underline flex items-center  hover:text-blue-900 hover:bg-blue-200",
+                {
+                  "border-blue-700": router?.asPath === "/space",
+                }
+              )}
+            >
+              Space
+            </a>
+          </Link>
+          <Link as={`/events`} href="/events">
+            <a
+              className={cn(
+                "border-l-2 lg:border-l-0 lg:border-t-2 border-transparent flex-no-grow flex-no-shrink relative py-2 px-4 leading-normal text-blue-700 no-underline flex items-center  hover:text-blue-900 hover:bg-blue-200",
+                {
+                  "border-blue-700": router?.asPath === "/events",
+                }
+              )}
+            >
+              Events
+            </a>
+          </Link>
           <Link as={`/about`} href="/about">
             <a
               className={cn(
