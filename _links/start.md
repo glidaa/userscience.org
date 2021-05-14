@@ -2,7 +2,7 @@
 title: Start Here
 
 ---
-By understanding a user through a scientific approach, we can reduce bias and deliver outcomes.
+# ![](/assets/92.jpg)By understanding a user through a scientific approach, we can reduce bias and deliver outcomes.
 
 > _We believe that understanding users should be done through a scientific approach_
 
@@ -10,9 +10,9 @@ By understanding a user through a scientific approach, we can reduce bias and de
 
 The first step for becoming a user scientist is the problem statement, from here you establish what you are looking to solve, with the parameters of what is efficient. The next step is to collect data in all forms, then make a hypothesis, then test your theory.
 
-**Trust is the epicenter of success.**
+**Trust is the epicentre of success.**
 
-Everyone promises, Trust is the metric to measure as a scientist to understand human connection. Trust is the foundation of psychology and the root of fear, the first step of love and the journey to freedom. 
+Everyone promises, Trust is the metric to measure as a scientist to understand human connection. Trust is the foundation of psychology and the root of fear, the first step of love and the journey to freedom.
 
 Currently, many companies refuse to conduct tests, as they refuse to see the value within experimental data. Companies will also state “I hired you, you should know what to do,” which leads to a loss in terms of experimentation.
 
@@ -40,4 +40,4 @@ With all products we now find the journey of a user to purchase and satisfaction
 
 This doesn't mean we can't find a good marriage of "gut" marketing, or common-sense marketing and scientific testing and this balance needs to be pragmatic about delivery.
 
-[Read and Sign Manifesto](userscience.org/manifesto "userscience.org/manifesto")
+[Read and Sign Manifesto](manifesto "manifesto")
