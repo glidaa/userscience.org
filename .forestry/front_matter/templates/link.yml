@@ -8,6 +8,7 @@ fields:
     required: false
   label: Title
 pages:
+- _links/events.md
 - _links/manifesto.md
 - _links/privacy.md
 - _links/space.md
