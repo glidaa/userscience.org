@@ -1,8 +1,8 @@
 ---
-title: Manifesto
+title: Pledge
 
 ---
-_We believe that understanding users should be approached scientifically._ 
+_We pledge to seek to understanding users scientifically._ 
 
 _That our understanding of the user is a tentative explanation of things; it is made of compelling problems and hypothetical solutions for them._ 
 
