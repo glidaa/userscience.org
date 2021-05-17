@@ -18,4 +18,4 @@ _The difference between science and other ways of doing business is that science
 
 _The method of science is the checking of theories; that is, their critical evaluation and replacement by better candidates, guided by the idea of searching for truth._
 
-To sign the manifesto, please email michael@glidaa.com with your pledge and message to be recorded on our wall. 
+To make our pledge, please email michael@glidaa.com with your version of our pledge and message to be recorded on our wall. 
