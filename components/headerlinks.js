@@ -71,16 +71,16 @@ export default function HeaderLinks() {
               Start Here
             </a>
           </Link>
-          <Link as={`/manifesto`} href="/manifesto">
+          <Link as={`/pledge`} href="/pledge">
             <a
               className={cn(
                 "border-l-2 lg:border-l-0 lg:border-t-2 border-transparent flex-no-grow flex-no-shrink relative py-2 px-4 leading-normal text-blue-700 no-underline flex items-center  hover:text-blue-900 hover:bg-blue-200",
                 {
-                  "border-blue-700": router?.asPath === "/manifesto",
+                  "border-blue-700": router?.asPath === "/pledge",
                 }
               )}
             >
-              Manifesto
+              Pledge
             </a>
           </Link>
           <Link as={`/space`} href="/space">
