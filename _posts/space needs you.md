@@ -5,7 +5,7 @@ coverImage: "/assets/hand-draw-astronaut-cosmonaut-space-sketch-design_1035-2032
 excerpt: A global experience ..
 
 ---
-A global experience language for user scientists
+A global experience language for user scientists.
 
 We are building a library and need your support please help us build the future of the web.
 
