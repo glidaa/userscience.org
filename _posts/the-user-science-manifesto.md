@@ -31,4 +31,4 @@ _The method of science is the checking of theories; that is, their critical eval
 
 If you go to our pledge page you can make that pledge yourself.
 
-[Pledge](./page/pledge "pledge")
+[Pledge](./pledge "Pledge now")
