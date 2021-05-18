@@ -41,15 +41,15 @@ clip-path: polygon(0% 0%, 0% 100%, 0 100%, 0 0, 100% 0, 100% 100%, 0 100%, 100% 
   color: #000000;
 }
 a:link {
-    color: rgb(34, 19, 235);
+    color: #2563eb;
     text-decoration: none;
   }
   a:visited {
-    color: rgb(34, 19, 235);
+    color: #2564ebd7;
     text-decoration: none;
   }
   a:hover {
-    color: rgb(0, 38, 255);
+    color: #2563eb;
     text-decoration: underline;
   }
   a:active {
