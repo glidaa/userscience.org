@@ -14,6 +14,6 @@ We want space to be a designed with accessibility first, with so many people liv
 
 Space is built for you to rapidly prototype and test with an inbuilt playroom to quickly test ideas and controls to allow you to bring your colours, brand and spacing and still test options.
 
-Our home is here [sb.userscience.org](sb.userscience.org "sb.userscience.org"). 
+Our home is here [sb.userscience.org.](http://sb.userscience.org "sb.userscience.org.")
 
 Our code is here [https://github.com/glidaa/space](https://github.com/glidaa/space "https://github.com/glidaa/space")
