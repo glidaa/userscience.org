@@ -30,7 +30,7 @@ fields:
   label: excerpt
   description: short content
 pages:
-- _posts/test-post.md
+- _posts/space needs you.md
 - _posts/the-hypothesis.md
 - _posts/the-user-science-pledge.md
 - _posts/user-science-is-a-philosophy.md
