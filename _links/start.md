@@ -40,4 +40,4 @@ With all products we now find the journey of a user to purchase and satisfaction
 
 This doesn't mean we can't find a good marriage of "gut" marketing, or common-sense marketing and scientific testing and this balance needs to be pragmatic about delivery.
 
-[Read and Sign Manifesto](manifesto "manifesto")
+[Read and Sign Pledge](pledge "Pledge")
