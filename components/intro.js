@@ -9,7 +9,7 @@ export default function Intro() {
           <h1 className="min-w-max text-4xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">
             <Link href="/">
               <a className="hover:underline">
-                User <span className="text-blue-600">science</span>
+              <span className="title-black">User </span><span className="title-blue">science</span>
               </a>
             </Link>
           </h1>
