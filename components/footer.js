@@ -6,12 +6,12 @@ export default function Footer() {
       <Container>
         <div className=" flex flex-row items-center justify-center">
           <h3 className="flex flex-row items-center justify-center text-3xl lg:text-4xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-2/3">
-            <img
+            {" "}
+            For more information contact us <img
               src={"/assets/michael.png"}
               className="w-15 h-15 rounded-full mr-4"
               alt={"michael.png"}
-            />{" "}
-            For more information contact <a href="https://www.linkedin.com/in/michaelcastleman/">Michael Castleman</a>
+            /><a href="https://www.linkedin.com/in/michaelcastleman/">Michael Castleman</a>
           </h3>
         </div>
         <FooterLinks />
