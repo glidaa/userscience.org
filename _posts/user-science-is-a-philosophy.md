@@ -11,7 +11,7 @@ excerpt: User Science is a philosophy...
 
 **![](/assets/michael.png)**
 
-Why would we approach the building of an enterprise with science? 
+Why would we approach the building of an enterprise with science?
 
 Science is exceptional at delivering outcomes through testing. By applying the scientific method we can structure our work to move towards an unbiased solution that delivers outcomes.
 
@@ -28,3 +28,5 @@ With an hypothesis, a user scientist seeks, like all scientists, to prove their 
 With all products we now find this journey of a user to purchase and satisfaction has many steps. We might be very good at developing a landing page that effectively signs up people to a free trial, but the product doesn't match the offer and there are low conversions. Our problem in most cases is that we have limited time and limited data to make effective scientific analysis.
 
 This doesn't mean we can't find a good marriage of "gut" marketing, or common-sense marketing and scientific testing and this balance needs to be pragmatic about delivery.
+
+[Join our space program](http://userscience.org/space "Join space")
