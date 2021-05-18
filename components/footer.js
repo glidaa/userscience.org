@@ -11,7 +11,7 @@ export default function Footer() {
               className="w-15 h-15 rounded-full mr-4"
               alt={"michael.png"}
             />{" "}
-            Michael Castleman
+            For more information contact <a href="https://www.linkedin.com/in/michaelcastleman/">Michael Castleman</a>
           </h3>
         </div>
         <FooterLinks />
